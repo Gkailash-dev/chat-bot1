@@ -7,3 +7,6 @@ google-generativeai
 pymupdf
 django-bootstrap5
 scikit-learn
+pandas
+numpy
+
