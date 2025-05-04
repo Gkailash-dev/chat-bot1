@@ -5,4 +5,4 @@ tzdata==2025.2
 gunicorn
 google-generativeai
 pymupdf
-
+django-bootstrap5
